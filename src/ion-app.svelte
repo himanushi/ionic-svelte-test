@@ -1,3 +1,5 @@
+<svelte:options tag="ion-app" />
+
 <script lang="ts">
 	export let name: string;
 </script>
